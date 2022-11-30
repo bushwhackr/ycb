@@ -1,8 +1,5 @@
 from ycb.console import console
-from ycb.facilities import get_facilities
-
-# Getting facility list
-# curl 'https://www.onepa.gov.sg/pacesapi/FacilitySearch/GetFacilityOutlets'
+from ycb.facility import get_facilities
 
 
 if __name__ == '__main__':
