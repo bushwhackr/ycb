@@ -1,7 +1,8 @@
-# js
-node_modules/
+# python
+__pycache__/
 
 
 # ide
 .idea/
+
 
